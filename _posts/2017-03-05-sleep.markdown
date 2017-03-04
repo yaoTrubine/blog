@@ -1,0 +1,6 @@
+---
+layout: post
+title: 睡觉
+---
+>睡觉，明天在干
+![有帮助的图]({{ site.url }}/assets/Graffiti-Red.jpg)
