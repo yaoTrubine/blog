@@ -1,6 +1,8 @@
 ---
 layout: post
-title: 睡觉
+title: "睡觉"
+tags: "生活"
 ---
 >睡觉，明天在干
+
 ![有帮助的图]({{ site.url }}/assets/Graffiti-Red.jpg)
